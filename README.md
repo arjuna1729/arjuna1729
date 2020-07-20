@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Lovepreet Singh.
+### My name is Lovepreet Singh, a passionate CS undergrad from India.
 
 <!--
 **arjuna1729/arjuna1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
